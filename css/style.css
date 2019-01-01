@@ -1,0 +1,15 @@
+header{
+width: 100%;
+height: 100px;
+color: #990099;
+}
+body{
+font-family: Arial, sans-serif;
+}
+footer{
+width: 100%;
+height: 50px;
+color: #fff;
+position: center;
+background-color: #330033;
+}
